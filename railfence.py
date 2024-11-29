@@ -1,3 +1,5 @@
+#railfence
+
 def rail_fence_encrypt(plaintext, rails):
     plaintext = plaintext.replace(" ", "").upper()
     fence = [['' for _ in range(len(plaintext))] for _ in range(rails)]

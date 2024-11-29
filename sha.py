@@ -1,3 +1,5 @@
+#sha
+
 import hashlib 
 str = "GeeksforGeeks"
 result = hashlib.sha1(str.encode()) 

@@ -1,3 +1,5 @@
+#md5
+
 import hashlib
 
 data = "Hello, world!"

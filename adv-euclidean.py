@@ -1,3 +1,5 @@
+#advanced euclidean
+
 def extended_gcd(a, b):
     if a == 0:
         return b, 0, 1

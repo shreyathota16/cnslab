@@ -1,3 +1,5 @@
+#simple columnar
+
 def simple_columnar_encrypt(plaintext, key):
     num_cols = len(key)
     padded_plaintext = plaintext.ljust(
